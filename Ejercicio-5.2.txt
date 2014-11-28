@@ -1,0 +1,1 @@
+5.2: No podemos unir dos relaciones directamente, y tendríamos que unir "es experto en" y "controla", así que NO.

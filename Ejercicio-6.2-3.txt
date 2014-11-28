@@ -1,0 +1,5 @@
+6.2: Quitaríamos "Precio" de "Vende", y lo añadiríamos a "Medicamentos"
+
+6.3: Necesitaríamos una entidad "Recetas" relacionada con "Recetan"
+
+
